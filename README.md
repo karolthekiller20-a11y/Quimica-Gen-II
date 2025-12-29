@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada-quimica-general-II.png" width="420">
+  <img src="portada.png" width="400">
 </p>
 
 # 🧪 Química General II
